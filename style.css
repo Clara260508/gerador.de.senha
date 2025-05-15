@@ -6,8 +6,8 @@
     --fundo-senha: #58d291;
     --fundo-texto: #19dd6ea4;
     --borda: #74868d;
-    --Roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --arial: 'Roboto', sans-serif;
+    --arial-mono: 'Roboto Mono', monospace;
 }
 
 * {
@@ -17,11 +17,11 @@
 body {
     color: var(--branco);
     background-color: var(--cor-de-fundo);
-    font-family: var(--roboto);
+    font-family: var(--arial);
 }
 
 .titulo-principal {
-    font-family: var(--roboto-mono);
+    font-family: var(--arial-mono);
     font-size: 32px;
 }
 
@@ -45,7 +45,7 @@ body {
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
-    font-family: var(--roboto-mono);
+    font-family: var(--arial-mono);
     font-size: 40px;
     width: 70%;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .parametro-titulo {
-    font-family: var(--roboto-mono);
+    font-family: var(--arial-mono);
     font-size: 28px;
 }
 
