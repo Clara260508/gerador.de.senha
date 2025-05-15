@@ -3,8 +3,9 @@
 :root {
     --branco: rgb(23, 26, 25);
     --cor-de-fundo: #84a998;
-    --fundo-senha: #03915fec;
-    --fundo-texto: #028061f2;
+    --fundo-senha: #0b9263e3;
+    --fundo-texto: #0b9263e3;
+    --fundo-texto: #;
     --borda: #74868d;
     --arial: 'Arial', sans-serif;
     --arial-mono: 'Arial Mono', monospace;
