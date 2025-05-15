@@ -3,8 +3,8 @@
 :root {
     --branco: rgb(23, 26, 25);
     --cor-de-fundo: #84a998;
-    --fundo-senha: #58d291;
-    --fundo-texto: #19dd6ea4;
+    --fundo-senha: #16a070d9;
+    --fundo-texto: #079880d8;
     --borda: #74868d;
     --arial: 'Roboto', sans-serif;
     --arial-mono: 'Roboto Mono', monospace;
@@ -136,12 +136,12 @@ label {
 }
 
 .media {
-    background-color: #fa9b2ec3;
+    background-color: #eff305fb;
     width: 50%;
 }
 
 .forte {
-    background-color: #24d149;
+    background-color: #03f838;
     width: 100%;
 }
 
