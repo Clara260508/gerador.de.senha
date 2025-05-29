@@ -2,11 +2,11 @@
 
 :root {
     --branco: rgb(23, 26, 25);
-    --cor-de-fundo: #84a998;
-    --fundo-senha: #0b9263e3;
-    --fundo-texto: #0b9263e3;
+    --cor-de-fundo: #010e08;
+    --fundo-senha: #f40909fa;
+    --fundo-texto: #18f9f5ec;
     --fundo-texto: #;
-    --borda: #74868d;
+    --borda: #0f1b9b;
     --arial: 'Arial', sans-serif;
     --arial-mono: 'Arial Mono', monospace;
 }
@@ -142,7 +142,7 @@ label {
 }
 
 .forte {
-    background-color: #03f838;
+    background-color: #4edf0b;
     width: 100%;
 }
 
